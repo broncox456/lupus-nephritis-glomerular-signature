@@ -37,6 +37,12 @@ Which genes are most strongly dysregulated in glomerular lupus nephritis compare
 - `results/tables/ln_glomerular_top20.tsv`
 - `results/figures/volcano_plot.png`
 
+## Additional outputs
+- `results/tables/ln_glomerular_summary_metrics.tsv`
+- `results/tables/ln_glomerular_top10_up.tsv`
+- `results/tables/ln_glomerular_top10_down.tsv`
+- `notebooks/01_ln_glomerular_walkthrough.ipynb`
+
 ## Key findings
 Top-ranked genes included:
 - IFI44
@@ -55,6 +61,8 @@ data/
   metadata/
   processed/
 r/
+
+
 python/
 results/
 docs/
