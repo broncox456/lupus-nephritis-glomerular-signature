@@ -135,8 +135,14 @@ Key outputs include differential expression tables, prioritized gene lists, and 
 
 ---
 
+## Scope and Disclaimer
+
+**Status:** public-data reanalysis — hypothesis-generating, single tissue compartment, no longitudinal outcomes. Not a validated clinical tool, not a medical device, no regulatory clearance. Results must not be used for patient-level decisions.
+
+**Data provenance:** public GEO microarray dataset GSE32591 (glomerular biopsy samples). No identifiable patient data are used or shared.
+
 ## Author
 
-Cristian Arias, MD 
-Specialist in Internal Medicine and Nephrology
-Healthcare Data Scientist / MSc Bioinformatics 
+**Cristian Arias Ramírez, MD, MSc** — Nephrologist & Internal Medicine Specialist · MSc Bioinformatics and Precision Medicine (Universidad Alfonso X el Sabio, 2026)
+
+[LinkedIn](https://www.linkedin.com/in/cristian-arias-healthcare-data/) · [Full portfolio](https://github.com/broncox456)
